@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PadoBox/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/PadoBox/static/js/main.12a01c77.chunk.js",
+    "main.js.map": "/PadoBox/static/js/main.12a01c77.chunk.js.map",
+    "runtime-main.js": "/PadoBox/static/js/runtime-main.b0fe8f7a.js",
+    "runtime-main.js.map": "/PadoBox/static/js/runtime-main.b0fe8f7a.js.map",
+    "static/css/2.eb1025ee.chunk.css": "/PadoBox/static/css/2.eb1025ee.chunk.css",
+    "static/js/2.b9fcc2d4.chunk.js": "/PadoBox/static/js/2.b9fcc2d4.chunk.js",
+    "static/js/2.b9fcc2d4.chunk.js.map": "/PadoBox/static/js/2.b9fcc2d4.chunk.js.map",
+    "index.html": "/PadoBox/index.html",
+    "precache-manifest.cc5f27b695b36ac709ee32bbf8185873.js": "/PadoBox/precache-manifest.cc5f27b695b36ac709ee32bbf8185873.js",
+    "service-worker.js": "/PadoBox/service-worker.js",
+    "static/css/2.eb1025ee.chunk.css.map": "/PadoBox/static/css/2.eb1025ee.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/PadoBox/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.b9fcc2d4.chunk.js.LICENSE.txt": "/PadoBox/static/js/2.b9fcc2d4.chunk.js.LICENSE.txt",
+    "static/media/box.png": "/PadoBox/static/media/box.df8b84d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0fe8f7a.js",
+    "static/css/2.eb1025ee.chunk.css",
+    "static/js/2.b9fcc2d4.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.12a01c77.chunk.js"
+  ]
+}
